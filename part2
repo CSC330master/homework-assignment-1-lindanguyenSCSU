@@ -1,0 +1,19 @@
+Linx command:
+	pwd /check current directory
+	mkdir /make new directory
+	cs / move to directory
+	pico -l wordsArt.html / open file
+Git command:
+	git config --global user.email "nguyenh17@southernct.edu"
+	git config --global user.name "Linda Nguyen"
+	git clone https://github.com/CSC330master/homework-assignment-1-lindanguyenSCSU.git
+	git status / check the statis your local repository
+	git add wordArt.html /add a file
+	git commit -m "adding name and changing title" /commit the changes
+	git push https://github.com/CSC330master/homeword-assignment-1-1indanguyenSCSU.git
+	//push commit changes
+
+Penalty of 15% per day submitting late assignments
+Attendance is auto matucally monitored. Allowed 2 unexcused absences
+I did not collaborate with anyone while working in this assignment
+
